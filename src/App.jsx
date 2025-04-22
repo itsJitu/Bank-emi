@@ -177,7 +177,7 @@ const App = () => {
         </div>
 
         {/* Summary and Chart */}
-        <div className="grid grid-cols-1 md:grid-cols-1 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-1 gap-6 w-100">
           {/* Summary Card */}
           <div className="bg-white rounded-lg shadow-md p-6 w-full">
             <div className="space-y-2 text-center">
